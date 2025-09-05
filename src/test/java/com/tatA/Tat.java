@@ -6,6 +6,7 @@ public class Tat {
 		// TODO Auto-generated method stub
 		System.out.println("Jack");
 		System.out.println("Jack");
+		System.out.println("Switched to One");
 	}
 
 }
